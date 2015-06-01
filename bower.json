@@ -1,0 +1,32 @@
+{
+    "name": "Class Scorecard App",
+    "version": "1.0.0",
+    "authors": [
+        "Sankalp Lakhina <sankalp.lakhina91@gmail.com>"
+    ],
+    "description": "Class Scorecard App for Teachers to evaluate class performance",
+    "keywords": [
+        "class",
+        "scorecard"
+    ],
+    "license": "MIT",
+    "homepage": "index.html",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ],
+    "dependencies": {
+        "jquery": "#1.11.2",
+        "angular": "#1.2.28",
+        "bootstrap": "#3.3.4",
+        "html5shiv": "#3.7.2",
+        "respond": "#1.4.2",
+        "ngstorage": "~0.3.0"
+    },
+    "resolutions": {
+        "angular": "1.2.28"
+    }
+}
